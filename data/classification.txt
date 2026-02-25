@@ -1,0 +1,1 @@
+Classification is a type of supervised learning where the output is a category. Algorithms include logistic regression, decision trees and naive bayes.

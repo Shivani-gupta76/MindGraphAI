@@ -1,0 +1,1 @@
+Linear regression is a supervised learning algorithm used to predict continuous values. It finds the best fit line between input variables and the output.
